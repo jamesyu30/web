@@ -8,8 +8,6 @@ li {
 }
 
 li {
-  border-width: thin;
-  border-style: solid;
-  border-color: red;
+  color: red;
 }
   
