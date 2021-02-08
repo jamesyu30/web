@@ -1,13 +1,13 @@
 body {
-background-color: gray;
+background-color: silver;
 }
 
-p {
+li {
   font-size: 12px;
   font-family: sans-serif;
 }
 
-border{
+border {
   border-width: 6px;
   border-style: solid;
   border-color: red;
