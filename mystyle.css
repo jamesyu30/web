@@ -7,7 +7,7 @@ li {
   font-family: sans-serif;
 }
 
-border {
+li {
   border-width: thin;
   border-style: solid;
   border-color: red;
