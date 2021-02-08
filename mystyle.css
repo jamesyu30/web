@@ -8,7 +8,7 @@ li {
 }
 
 border {
-  border-width: 6px;
+  border-width: medium;
   border-style: solid;
   border-color: red;
 }
