@@ -29,5 +29,6 @@ ul {
 
 .box {
   display: flex;
+    align-items: center;
 }
   
