@@ -22,3 +22,12 @@ h2 {
   font-weight: bold;
   font-family: Georgia, serif;
 }
+
+ul {
+  border: 2px solid blue;
+}
+
+.box {
+  display: flex;
+}
+  
