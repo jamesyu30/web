@@ -30,5 +30,6 @@ ul {
 .box {
   display: flex;
     align-items: center;
+  background-color: lightseagreen;
 }
   
