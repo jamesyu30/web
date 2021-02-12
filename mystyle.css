@@ -30,7 +30,7 @@ ul {
 .box {
   display: flex;
     align-items: center;
-  background-color: cadetblue;
+  background-color: lightskyblue;
   justify-content: center;
   margin: 2px
 }
