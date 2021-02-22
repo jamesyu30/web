@@ -37,7 +37,10 @@ ul {
 
 
 .menu {
+  background-color: azure; 
+}
+
+.menu2 {
   font-size: "30px";
     align-items: center;
-  background-color: blue; 
 }
