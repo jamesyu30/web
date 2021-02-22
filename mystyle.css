@@ -34,4 +34,10 @@ ul {
   justify-content: center;
   margin: 2px
 }
-  
+
+
+nav {
+  font-size: "30px";
+    align-items: center;
+  background-color: blue; 
+}
