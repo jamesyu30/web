@@ -43,4 +43,6 @@ ul {
 .menu2 {
   font-size: "30px";
     align-items: center;
+  font-weight: bold;
+  font-family: arial;
 }
