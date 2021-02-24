@@ -49,5 +49,6 @@ ul {
 
 .main {
   display: flex;
-  background-color: lightcyan;
+  background-color: skyblue;
+  padding: 2px;
 }
