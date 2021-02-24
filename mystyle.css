@@ -46,3 +46,8 @@ ul {
   font-family: arial;
  text-align: center;
 }
+
+.main {
+  display: flex;
+  background-color: lightcyan;
+}
