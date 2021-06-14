@@ -101,3 +101,8 @@ p {
 	max-width: 672px;
 	font-family: "Courier New", monospace;
 	}
+
+h {
+	margin-left: 5px;
+	font-size: 12px;
+	font-family: "Georgia", serif;
