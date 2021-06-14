@@ -96,7 +96,7 @@ h1 {
 
 p {
 	display: block;
-	color: #EBC934;
+	color: #FCBA03;
 	margin-left: 5px;
 	max-width: 672px;
 	font-family: "Courier New", monospace;
@@ -104,5 +104,5 @@ p {
 
 h {
 	margin-left: 5px;
-	font-size: 12px;
-	font-family: "Georgia", serif;
+	font-size: 24px;
+	font-family: "Times New Roman", serif;
