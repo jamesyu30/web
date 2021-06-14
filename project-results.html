@@ -76,8 +76,33 @@
 </ul>
 </nav>
 
-<h1>What Does Our Project Look Like?</h1>
-<p>
+<h1>How does it work?</h1>
+<p>It starts out with a simple print statement. Then we access a .txt file that contains all of the puzzles and their respective categories. 
+        To get the various puzzles used for our game, we found a website with wheel of fortune words and put it into a .txt file. 
+        We organized the file into a dictionary where the categories are the keys and the words are the values. 
+        We randomly select a category using the random function, then select a word from the category. 
+        It's the same process for both regular rounds and the bonus round. 
+        The word is then turned into question marks by multiplying the question mark by the length of the word. 
+        We use the input function to ask and recieve the answers. 
+        The input function then gets run through the check function to see if the letter/word is there. 
+        The check function returns boolean values that determines what text is printed and how the points are altered. 
+        If it returns true, you get a random number of points by using the wheel function, otherwise, it deducts points. 
+        The points are saved between rounds by being added to a list, then it gets called on later. 
+        For the bonus round, the check function checks r, s, t, l, n, and e and returns the result. 
+        You get asked to input three consonants and a vowel and those also get checked. 
+        If you get the bonus round right, it calls on the turtle function and also .bgpic. 
+        .bg pic generates the wheel picture in the turtle screen while the turtle moves forward a random number. 
+        Lastly, the random function picks a number from a list of 24 values and that number is the amount of points you get.
+        
+        
 </p>
 
+        <h1>Files</h>
+        <p>
+        </p>
+        
+        <h1>Resources</h>
+        <p>
+        </p>
+	
 </html>
